@@ -1,3 +1,5 @@
+**NOTE: This is a temporary fork and will be removed as soon as the original repository is updated with support for Ecto 3.5**
+
 # Ecto.ULID
 
 An `Ecto.Type` implementation of [ULID](https://github.com/ulid/spec).
